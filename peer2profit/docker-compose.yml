@@ -12,9 +12,6 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-      interval: 10s
-      timeout: 3s
-      retries: 1
   Peer2Profit2:
     build:
       context: .
@@ -375,9 +372,6 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-      interval: 10s
-      timeout: 3s
-      retries: 1
   Peer2Profit32:
     build:
       context: .
