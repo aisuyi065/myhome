@@ -1,14 +1,62 @@
-version: '3.8'
+version: '3.2'
 services:
-  Peer2Profit:
+  Peer2Profit1:
     build:
       context: .
       dockerfile: Dockerfile
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=chasing0806@gmail.com
+      - email=1686848700@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "chasing0806@gmail.com"
+      - "1686848700@qq.com"
+  Peer2Profit2:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+  Peer2Profit3:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+  Peer2Profit4:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+  Peer2Profit5:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
