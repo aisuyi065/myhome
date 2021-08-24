@@ -13,8 +13,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit2:
     build:
       context: .
@@ -28,8 +28,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit3:
     build:
       context: .
@@ -43,8 +43,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit4:
     build:
       context: .
@@ -58,8 +58,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit5:
     build:
       context: .
@@ -73,8 +73,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit6:
     build:
       context: .
@@ -88,8 +88,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit7:
     build:
       context: .
@@ -103,8 +103,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit8:
     build:
       context: .
@@ -118,8 +118,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit9:
     build:
       context: .
@@ -133,8 +133,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit10:
     build:
       context: .
@@ -148,8 +148,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit11:
     build:
       context: .
@@ -163,8 +163,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit12:
     build:
       context: .
@@ -178,8 +178,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit13:
     build:
       context: .
@@ -193,8 +193,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit14:
     build:
       context: .
@@ -208,8 +208,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit15:
     build:
       context: .
@@ -223,8 +223,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit16:
     build:
       context: .
@@ -238,8 +238,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit17:
     build:
       context: .
@@ -253,8 +253,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit18:
     build:
       context: .
@@ -268,8 +268,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit19:
     build:
       context: .
@@ -283,8 +283,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit20:
     build:
       context: .
@@ -298,8 +298,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit21:
     build:
       context: .
@@ -313,8 +313,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit22:
     build:
       context: .
@@ -328,8 +328,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit23:
     build:
       context: .
@@ -343,8 +343,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit24:
     build:
       context: .
@@ -358,8 +358,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit25:
     build:
       context: .
@@ -373,8 +373,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit26:
     build:
       context: .
@@ -388,8 +388,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit27:
     build:
       context: .
@@ -403,8 +403,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit28:
     build:
       context: .
@@ -418,8 +418,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit29:
       build:
       context: .
@@ -433,8 +433,8 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
   Peer2Profit30:
     build:
       context: .
@@ -448,5 +448,5 @@ services:
       - "-l"
       - "1686848700@qq.com"
     interval: 30s
-    timeout: 30s
-    retries: 3
+
+
