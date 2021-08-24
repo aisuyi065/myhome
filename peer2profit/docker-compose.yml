@@ -12,7 +12,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit2:
@@ -27,7 +27,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit3:
@@ -42,7 +42,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit4:
@@ -57,7 +57,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit5:
@@ -72,7 +72,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit6:
@@ -87,7 +87,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit7:
@@ -102,7 +102,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit8:
@@ -117,7 +117,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit9:
@@ -132,7 +132,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit10:
@@ -147,7 +147,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit11:
@@ -162,7 +162,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit12:
@@ -177,7 +177,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit13:
@@ -192,7 +192,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit14:
@@ -207,7 +207,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit15:
@@ -222,7 +222,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit16:
@@ -237,7 +237,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit17:
@@ -252,7 +252,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit18:
@@ -267,7 +267,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit19:
@@ -282,7 +282,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit20:
@@ -297,7 +297,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit21:
@@ -312,7 +312,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit22:
@@ -327,7 +327,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit23:
@@ -342,7 +342,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit24:
@@ -357,7 +357,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit25:
@@ -372,7 +372,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit26:
@@ -387,7 +387,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit27:
@@ -402,7 +402,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit28:
@@ -417,7 +417,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit29:
@@ -432,7 +432,7 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
   Peer2Profit30:
@@ -447,6 +447,6 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "1686848700@qq.com"
-    interval: 30s
+
 
 
