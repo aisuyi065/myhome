@@ -15,10 +15,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -37,10 +37,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -59,10 +59,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -81,10 +81,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -103,10 +103,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -125,10 +125,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -147,10 +147,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -169,10 +169,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -191,10 +191,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -213,10 +213,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -235,10 +235,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -257,10 +257,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -279,10 +279,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -301,10 +301,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -323,10 +323,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -345,10 +345,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -367,10 +367,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -389,10 +389,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -411,10 +411,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -433,10 +433,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -455,10 +455,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -477,10 +477,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -499,10 +499,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -521,10 +521,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -543,10 +543,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -565,10 +565,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -587,10 +587,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -609,10 +609,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -631,10 +631,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -653,10 +653,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -675,10 +675,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -697,10 +697,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -719,10 +719,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -741,10 +741,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -763,10 +763,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -785,10 +785,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -807,10 +807,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -829,10 +829,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -851,10 +851,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -873,10 +873,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -895,10 +895,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -917,10 +917,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -939,10 +939,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -961,10 +961,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -983,10 +983,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1005,10 +1005,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1027,10 +1027,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1049,10 +1049,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1071,10 +1071,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1093,10 +1093,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1115,10 +1115,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1137,10 +1137,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1159,10 +1159,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1181,10 +1181,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1203,10 +1203,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1225,10 +1225,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1247,10 +1247,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1269,10 +1269,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1291,10 +1291,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1313,10 +1313,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1335,10 +1335,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1357,10 +1357,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1379,10 +1379,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1401,10 +1401,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1423,10 +1423,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1445,10 +1445,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1467,10 +1467,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1489,10 +1489,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1511,10 +1511,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1533,10 +1533,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1555,10 +1555,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1577,10 +1577,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1599,10 +1599,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1621,10 +1621,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1643,10 +1643,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1665,10 +1665,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1687,10 +1687,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1709,10 +1709,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1731,10 +1731,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1753,10 +1753,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1775,10 +1775,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1797,10 +1797,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1819,10 +1819,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1841,10 +1841,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1863,10 +1863,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1885,10 +1885,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1907,10 +1907,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
@@ -1929,10 +1929,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
+          cpus: '0.0001'
           memory: 4M
     environment:
       SLEEP_SECOND: 10
