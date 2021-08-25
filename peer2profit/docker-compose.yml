@@ -8,9 +8,4 @@ services:
         condition: on-failure
         max_attempts: 3
     image: enwaiax/peer2profit:latest
-    environment: 
-      - email=1686848700@qq.com
-    command: 
-      - "/app/p2pclient"
-      - "-l"
-      - "1686848700@qq.com"
+    command: ["/app/p2pclient", "-l", "${email}"]
