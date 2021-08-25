@@ -48,7 +48,7 @@ else
      echo "... 离线安装 docker-compose 成功"
  else
   echo "... 在线安装 docker-compose"
-  curl -L "https://github.com/docker/compose/releases/download/1.14.0-rc2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose 2>&1 | tee -a ${CURRENT_DIR}/install.log
+  curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose 2>&1 | tee -a ${CURRENT_DIR}/install.log
   chmod +x /usr/local/bin/docker-compose
   ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
      docker-compose -version
