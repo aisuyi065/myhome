@@ -15,10 +15,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -37,10 +37,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -59,10 +59,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -81,10 +81,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -103,10 +103,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -125,10 +125,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -147,10 +147,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -169,10 +169,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -191,10 +191,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -213,10 +213,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -235,10 +235,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -257,10 +257,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -279,10 +279,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -301,10 +301,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -323,10 +323,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -345,10 +345,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -367,10 +367,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -389,10 +389,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -411,10 +411,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -433,10 +433,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -455,10 +455,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -477,10 +477,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -499,10 +499,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -521,10 +521,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -543,10 +543,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -565,10 +565,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -587,10 +587,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -609,10 +609,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -631,10 +631,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -653,10 +653,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -675,10 +675,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -697,10 +697,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -719,10 +719,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -741,10 +741,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -763,10 +763,10 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
@@ -785,10 +785,1396 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.001'
+          cpus: '0.01'
           memory: 15M
         reservations:
-          cpus: '0.0001'
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit37:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit38:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit39:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit40:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit41:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit42:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit43:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit44:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit45:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit46:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit47:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit48:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit49:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit50:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit51:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit52:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit53:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit54:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit55:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit56:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit57:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit58:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit59:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit60:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit61:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit62:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit63:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit64:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit65:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit66:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit67:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit68:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit69:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit70:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit71:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit72:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit73:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit74:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit75:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit76:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit77:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit78:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit79:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit80:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit81:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit82:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit83:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit84:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit85:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit86:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit87:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit88:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit89:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit90:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit91:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit92:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit93:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit94:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit95:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit96:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit97:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit98:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit99:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.01'
+          memory: 15M
+        reservations:
+          cpus: '0.01'
           memory: 6M
     environment:
       SLEEP_SECOND: 10
