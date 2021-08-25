@@ -15,11 +15,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit2:
@@ -37,11 +37,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit3:
@@ -59,11 +59,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit4:
@@ -81,11 +81,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit5:
@@ -103,11 +103,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit6:
@@ -125,11 +125,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit7:
@@ -147,11 +147,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit8:
@@ -169,11 +169,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit9:
@@ -191,11 +191,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit10:
@@ -213,11 +213,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit11:
@@ -235,11 +235,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit12:
@@ -257,11 +257,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit13:
@@ -279,11 +279,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit14:
@@ -301,11 +301,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit15:
@@ -323,11 +323,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit16:
@@ -345,11 +345,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit17:
@@ -367,11 +367,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit18:
@@ -389,11 +389,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit19:
@@ -411,11 +411,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit20:
@@ -433,11 +433,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit21:
@@ -455,11 +455,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit22:
@@ -477,11 +477,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit23:
@@ -499,11 +499,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit24:
@@ -521,11 +521,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit25:
@@ -543,11 +543,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit26:
@@ -565,11 +565,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit27:
@@ -587,11 +587,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit28:
@@ -609,11 +609,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit29:
@@ -631,11 +631,11 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
   Peer2Profit30:
@@ -653,10 +653,142 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '0.0005'
+          cpus: '0.001'
           memory: 15M
         reservations:
-          cpus: '0.00005'
-          memory: 4M
+          cpus: '0.0001'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit31:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.001'
+          memory: 15M
+        reservations:
+          cpus: '0.0001'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit32:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.001'
+          memory: 15M
+        reservations:
+          cpus: '0.0001'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit33:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.001'
+          memory: 15M
+        reservations:
+          cpus: '0.0001'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit34:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.001'
+          memory: 15M
+        reservations:
+          cpus: '0.0001'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit35:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.001'
+          memory: 15M
+        reservations:
+          cpus: '0.0001'
+          memory: 6M
+    environment:
+      SLEEP_SECOND: 10
+  Peer2Profit36:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=1686848700@qq.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "1686848700@qq.com"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.001'
+          memory: 15M
+        reservations:
+          cpus: '0.0001'
+          memory: 6M
     environment:
       SLEEP_SECOND: 10
