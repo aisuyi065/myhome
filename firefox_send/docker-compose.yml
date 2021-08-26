@@ -7,11 +7,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit2:
     build:
       context: .
@@ -19,11 +19,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit3:
     build:
       context: .
@@ -31,11 +31,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit4:
     build:
       context: .
@@ -43,11 +43,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit5:
     build:
       context: .
@@ -55,11 +55,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit6:
     build:
       context: .
@@ -67,11 +67,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit7:
     build:
       context: .
@@ -79,11 +79,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit8:
     build:
       context: .
@@ -91,11 +91,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit9:
     build:
       context: .
@@ -103,11 +103,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit10:
     build:
       context: .
@@ -115,11 +115,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit11:
     build:
       context: .
@@ -127,11 +127,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit12:
     build:
       context: .
@@ -139,11 +139,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit13:
     build:
       context: .
@@ -151,11 +151,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit14:
     build:
       context: .
@@ -163,11 +163,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit15:
     build:
       context: .
@@ -175,11 +175,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit16:
     build:
       context: .
@@ -187,11 +187,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit17:
     build:
       context: .
@@ -199,11 +199,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit18:
     build:
       context: .
@@ -211,11 +211,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit19:
     build:
       context: .
@@ -223,11 +223,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit20:
     build:
       context: .
@@ -235,11 +235,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit21:
     build:
       context: .
@@ -247,11 +247,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit22:
     build:
       context: .
@@ -259,11 +259,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit23:
     build:
       context: .
@@ -271,11 +271,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit24:
     build:
       context: .
@@ -283,11 +283,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit25:
     build:
       context: .
@@ -295,11 +295,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit26:
     build:
       context: .
@@ -307,11 +307,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit27:
     build:
       context: .
@@ -319,11 +319,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit28:
     build:
       context: .
@@ -331,11 +331,11 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
   Peer2Profit29:
     build:
       context: .
@@ -343,20 +343,8 @@ services:
     image: enwaiax/peer2profit
     restart: unless-stopped
     environment: 
-      - email=1686848700@qq.com
+      - email=772846226@qq.com
     command: 
       - "/app/p2pclient"
       - "-l"
-      - "1686848700@qq.com"
-  Peer2Profit30:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    image: enwaiax/peer2profit
-    restart: unless-stopped
-    environment: 
-      - email=1686848700@qq.com
-    command: 
-      - "/app/p2pclient"
-      - "-l"
-      - "1686848700@qq.com"
+      - "772846226@qq.com"
