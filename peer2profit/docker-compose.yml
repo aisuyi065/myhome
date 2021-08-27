@@ -420,3 +420,63 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "aisuyi065@gmail.com"
+  Peer2Profit36:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=aisuyi065@gmail.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "aisuyi065@gmail.com"
+  Peer2Profit37:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=aisuyi065@gmail.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "aisuyi065@gmail.com"
+  Peer2Profit38:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=aisuyi065@gmail.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "aisuyi065@gmail.com"
+  Peer2Profit39:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=aisuyi065@gmail.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "aisuyi065@gmail.com"
+  Peer2Profit40:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=aisuyi065@gmail.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "aisuyi065@gmail.com"
